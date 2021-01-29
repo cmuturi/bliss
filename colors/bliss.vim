@@ -7,7 +7,7 @@ let colors_name="onehalfdark"
 
 
 let s:black       = { "gui": "#282c34", "cterm": "236" }
-let s:red         = { "gui": "#e06c75", "cterm": "169" }
+let s:red         = { "gui": "#e06c75", "cterm": "168" }
 let s:green       = { "gui": "#98c379", "cterm": "106" }
 let s:yellow      = { "gui": "#e5c07b", "cterm": "214" }
 let s:blue        = { "gui": "#61afef", "cterm": "74"  }
